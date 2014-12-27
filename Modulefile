@@ -1,0 +1,10 @@
+name          'witjoh-roles'
+version       '0.1.0'
+source        'https://github.com/witjoh/pepuppet-roles.git'
+author        'witjoh'
+license       'Apache 2.0'
+summary       'Pupept Roles Defined @Koewacht brack and brack IT infrastructure'
+description   ''
+project_page  'https://github.com/witjoh/pepuppet-roles'
+
+dependency 'puppetlabs/stdlib'
